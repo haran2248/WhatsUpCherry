@@ -5,8 +5,7 @@
 Hi everyone, this is repository for my personal demo project on connecting Twilio and OpenAI to provide answers to all the users questions using OpenAI GPT-3. This is written in `Python` and served with `Flask`. This bot can only handle:
 * text messgaes
 
-### Youtube
-I have recorded a quick video on the setup of this chat-bot, in case you want to replicate the work, you can watch it [here](https://youtu.be/uxY3__IkozM).
+
 
 ### What you will need
 There are couple of things that you need before you get started following this repository.
@@ -41,10 +40,3 @@ gunicorn run:app
 * provide the NGROk urlon `Twilio WhatsApp Sandbox` for all incoming request.
 * test the setup using your WhatsApp
 
-# About me
-I am `Raj Kapadia`, I am passionate about `AI/ML/DL` and their use in different domains, I also love to build `chatbots` using `Google Dialogflow ES/CX`, I have backend development experience with Python[Flask], and NodeJS[Express] For any work, you can reach out to me at...
-
-* [LinkedIn](https://www.linkedin.com/in/rajkkapadia/)
-* [Fiverr](https://www.fiverr.com/rajkkapadia​)
-* [Upwork](https://www.upwork.com/freelancers/~0176aeacfcff7f1fc2)
-* [Youtube](https://www.youtube.com/channel/UCOT01XvBSj12xQsANtTeAcQ)
